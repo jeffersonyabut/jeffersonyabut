@@ -1,4 +1,4 @@
- <h1 align="center">Hi! I'm Jefferson Canonaso</h1>
+ <h1 align="center">Hi! I'm Jefferson Cañonaso</h1>
 
 <h3 align="center">
  Aspiring Full-Stack Web Developer • React • TypeScript • Node.js
